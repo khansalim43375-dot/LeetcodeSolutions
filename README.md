@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
