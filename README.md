@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
+| [3110-score-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3340-check-balanced-string) |
 ## Sliding Window
 |  |
