@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0069-sqrtx) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
