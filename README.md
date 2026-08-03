@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
