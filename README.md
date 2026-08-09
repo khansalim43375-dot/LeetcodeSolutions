@@ -1,9 +1,10 @@
  This repository contains my solutions to LeetCode problems that I solve while practicing Data Structures and Algorithms- Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
- #Language- C++
- #Purpose
- To improve my DSA skill
- To track my progress
- To Keep my solutions organized
+ # Language
+ C++
+ # Purpose
+ To improve my DSA skill<br>
+ To track my progress<br>
+ To Keep my solutions organized<br>
  
 <!---LeetCode Topics Start-->
 # LeetCode Solutions
