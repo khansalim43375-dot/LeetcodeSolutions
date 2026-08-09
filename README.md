@@ -1,6 +1,12 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+ This repository contains my solutions to LeetCode problems that I solve while practicing Data Structures and Algorithms- Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+ #Language- C++
+ #Purpose
+ To improve my DSA skill
+ To track my progress
+ To Keep my solutions organized
+ 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Solutions
 ## Hash Table
 |  |
 | ------- |
