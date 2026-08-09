@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
