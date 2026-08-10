@@ -59,6 +59,7 @@
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -191,4 +192,5 @@
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
