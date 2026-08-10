@@ -24,6 +24,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3340-check-balanced-string) |
 ## Sliding Window
@@ -94,6 +96,7 @@
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2785-sort-vowels-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -133,6 +137,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
