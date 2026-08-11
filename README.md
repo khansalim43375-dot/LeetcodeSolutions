@@ -20,6 +20,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -62,6 +63,7 @@
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -82,6 +84,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -138,6 +141,7 @@
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
