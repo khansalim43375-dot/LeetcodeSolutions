@@ -214,4 +214,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
