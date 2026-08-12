@@ -13,6 +13,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 ## Number Theory
 |  |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
