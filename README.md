@@ -16,6 +16,7 @@
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -63,6 +64,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -202,6 +204,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
