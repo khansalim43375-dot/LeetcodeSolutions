@@ -100,6 +100,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2951-find-the-peaks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
 ## Bit Manipulation
