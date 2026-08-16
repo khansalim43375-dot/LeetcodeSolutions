@@ -21,6 +21,7 @@
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
@@ -42,6 +43,7 @@
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0917-reverse-only-letters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
@@ -168,6 +170,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
