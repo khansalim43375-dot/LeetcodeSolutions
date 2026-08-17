@@ -35,6 +35,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [3110-score-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
