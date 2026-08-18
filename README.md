@@ -260,6 +260,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1291-sequential-digits) |
 | [2951-find-the-peaks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
