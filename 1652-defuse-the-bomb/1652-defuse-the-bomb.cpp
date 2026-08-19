@@ -4,25 +4,23 @@ public:
 
         int n = code.size();
         vector<int> ans(n,0);
-        
+        int window = 0;
         if(k > 0){
-            for(int i = 0; i < n; i++){
-
-                int sum = 0;
-                for(int j = i+1; j <= i+k; j++)
-                    sum += code[j%n];
-                ans[i] = sum;
-            }
+        for(int i = 0; i < k; i++){
+            window += code[i];
         }
-        if(k < 0){
+        for(int i = 0; i < n; i++){
+            ans[i] = window-code[i]+code[(i+k)%n];
+            window = window-code[i]+code[(i+k)%n];
+        }
+        }
+        else if(k < 0){
+            for(int i = n-1; i >= n+k; i--)
+                window += code[i];
             for(int i = n-1; i >= 0; i--){
-
-                int sum = 0;
-                for(int j = i-1; j >= i+k; j--)
-                   sum += code[(j+n)%n];
-                ans[i] = sum;   
+                ans[i] = window + code[(i+k+n)%n]-code[i];
+                window = window + code[(i+k+n)%n]-code[i];
             }
-            
         }
     return ans;    
     }
