@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -174,6 +175,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
@@ -313,6 +315,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -352,4 +355,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0812-largest-triangle-area) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
