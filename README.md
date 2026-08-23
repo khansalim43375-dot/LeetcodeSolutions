@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1652-defuse-the-bomb](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -109,6 +110,7 @@
 | [0162-find-peak-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -239,6 +241,7 @@
 | [0069-sqrtx](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -361,4 +364,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
