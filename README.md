@@ -23,6 +23,7 @@
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
@@ -111,6 +112,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
