@@ -33,6 +33,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -141,6 +142,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2951-find-the-peaks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -374,4 +376,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
