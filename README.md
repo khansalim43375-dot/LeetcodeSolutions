@@ -91,6 +91,7 @@
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
+| [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0812-largest-triangle-area) |
@@ -297,6 +298,7 @@
 | [0190-reverse-bits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -393,4 +395,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
