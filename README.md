@@ -89,6 +89,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
@@ -280,6 +282,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
