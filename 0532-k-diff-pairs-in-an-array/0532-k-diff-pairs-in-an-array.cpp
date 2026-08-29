@@ -2,27 +2,26 @@ class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
 
-    unordered_map<int,int> freq;
-    set<pair<int,int>> s2;
+        unordered_map<int, int> freq;
 
-    for(int x : nums){
-        if(!freq.count(x))
-            freq[x] = 1;
-        else    
+        for(int x : nums)
             freq[x]++;
-    }
-    if(k == 0){
+
         int ans = 0;
-        for(auto p : freq){
-            if(p.second > 1)
-               ans++;
+
+        for(auto p : freq) {
+            int x = p.first;
+
+            if(k == 0) {
+                if(p.second > 1)
+                    ans++;
+            }
+            else {
+                if(freq.count(x + k))
+                    ans++;
+            }
         }
-    return ans;    
-    }        
-    for(int x : nums){
-        if(freq.count(x + k))
-            s2.insert({x, x + k});
-    }
-    return s2.size();
+
+        return ans;
     }
 };
