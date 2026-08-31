@@ -142,6 +142,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
+| [0986-interval-list-intersections](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0986-interval-list-intersections) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -228,6 +229,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [2938-separate-black-and-white-balls](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2938-separate-black-and-white-balls) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
