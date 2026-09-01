@@ -139,6 +139,7 @@
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0812-largest-triangle-area) |
+| [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
@@ -308,6 +310,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
