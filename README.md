@@ -129,6 +129,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
