@@ -119,6 +119,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
