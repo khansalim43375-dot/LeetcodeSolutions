@@ -66,6 +66,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
@@ -256,6 +257,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
+| [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
@@ -289,6 +291,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
