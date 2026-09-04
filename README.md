@@ -186,6 +186,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -454,6 +455,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
+| [3903-smallest-stable-index-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 ## Euler's Totient Function
 |  |
 | ------- |
