@@ -100,6 +100,7 @@
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -406,6 +407,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
