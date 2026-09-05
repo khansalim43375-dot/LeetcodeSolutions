@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -84,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0413-arithmetic-slices) |
+| [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
 | [1652-defuse-the-bomb](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2090-k-radius-subarray-averages) |
@@ -151,6 +153,7 @@
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0896-monotonic-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
@@ -462,6 +465,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
