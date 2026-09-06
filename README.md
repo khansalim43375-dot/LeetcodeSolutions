@@ -115,6 +115,7 @@
 | [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
+| [2169-count-operations-to-obtain-zero](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -265,6 +266,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
+| [2169-count-operations-to-obtain-zero](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
