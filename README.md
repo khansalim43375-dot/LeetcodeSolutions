@@ -130,6 +130,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3870-count-commas-in-range) |
@@ -401,6 +402,7 @@
 | [1291-sequential-digits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1291-sequential-digits) |
 | [2951-find-the-peaks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
