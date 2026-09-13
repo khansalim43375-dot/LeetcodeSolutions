@@ -64,6 +64,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -274,6 +275,7 @@
 | [0481-magical-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
@@ -288,6 +290,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [2169-count-operations-to-obtain-zero](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
@@ -326,6 +329,7 @@
 | [0234-palindrome-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
