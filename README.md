@@ -14,6 +14,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
@@ -149,6 +150,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0162-find-peak-element) |
@@ -522,4 +524,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0986-interval-list-intersections) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
