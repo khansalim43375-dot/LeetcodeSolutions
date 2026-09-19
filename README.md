@@ -109,6 +109,7 @@
 | [0009-palindrome-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0263-ugly-number) |
@@ -457,6 +458,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
@@ -528,4 +530,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
