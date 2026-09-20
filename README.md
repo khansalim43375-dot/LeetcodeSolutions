@@ -87,6 +87,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -302,6 +303,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
