@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -163,6 +164,7 @@
 | [0198-house-robber](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -243,6 +245,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -318,6 +321,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -416,6 +420,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0229-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
