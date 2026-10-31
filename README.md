@@ -172,6 +172,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -370,6 +372,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
@@ -483,6 +486,7 @@
 | [0198-house-robber](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0413-arithmetic-slices) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -530,6 +534,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
