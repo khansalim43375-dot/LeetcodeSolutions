@@ -13,6 +13,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -153,6 +154,7 @@
 | [0041-first-missing-positive](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -380,6 +382,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
