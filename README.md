@@ -153,6 +153,7 @@
 | [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -406,6 +407,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
