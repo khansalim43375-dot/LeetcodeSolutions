@@ -59,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -113,6 +114,7 @@
 | [0009-palindrome-number](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -308,6 +310,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
@@ -323,6 +326,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
