@@ -153,6 +153,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0048-rotate-image) |
@@ -373,6 +374,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -420,6 +422,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0190-reverse-bits) |
