@@ -186,6 +186,7 @@
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -260,6 +261,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
@@ -416,6 +418,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -423,6 +426,7 @@
 | [0264-ugly-number-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -441,6 +445,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -499,6 +504,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -559,4 +565,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
