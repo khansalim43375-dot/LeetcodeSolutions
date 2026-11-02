@@ -221,6 +221,7 @@
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2553-separate-the-digits-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
+| [2643-row-with-maximum-ones](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2951-find-the-peaks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -401,6 +402,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
+| [2643-row-with-maximum-ones](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
