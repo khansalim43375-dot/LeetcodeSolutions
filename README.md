@@ -209,6 +209,7 @@
 | [1652-defuse-the-bomb](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1833-maximum-ice-cream-bars](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1901-find-a-peak-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1901-find-a-peak-element-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -390,6 +391,7 @@
 | [0875-koko-eating-bananas](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1901-find-a-peak-element-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Graph Theory
 |  |
@@ -402,6 +404,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
