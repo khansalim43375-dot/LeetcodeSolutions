@@ -533,6 +533,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -616,12 +617,14 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -630,4 +633,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
