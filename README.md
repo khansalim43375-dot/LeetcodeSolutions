@@ -618,6 +618,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -625,6 +626,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -637,4 +639,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
