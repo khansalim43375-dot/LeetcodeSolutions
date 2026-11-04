@@ -35,6 +35,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -273,6 +274,7 @@
 | [0912-sort-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -538,6 +540,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -624,6 +627,7 @@
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -634,6 +638,7 @@
 | [0110-balanced-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -646,4 +651,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
