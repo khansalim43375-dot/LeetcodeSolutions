@@ -207,6 +207,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1833-maximum-ice-cream-bars](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -397,6 +398,7 @@
 | [0888-fair-candy-swap](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1901-find-a-peak-element-ii) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Graph Theory
