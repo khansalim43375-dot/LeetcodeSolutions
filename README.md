@@ -64,6 +64,7 @@
 | [0076-minimum-window-substring](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
@@ -546,6 +547,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -638,6 +640,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -653,6 +656,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
@@ -670,4 +674,8 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
