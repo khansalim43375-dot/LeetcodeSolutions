@@ -340,6 +340,7 @@
 | [0067-add-binary](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -391,6 +392,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
@@ -644,6 +646,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -664,6 +667,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
