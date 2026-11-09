@@ -44,6 +44,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -230,6 +231,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -432,6 +434,7 @@
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1901-find-a-peak-element-ii) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2643-row-with-maximum-ones](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
