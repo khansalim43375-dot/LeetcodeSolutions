@@ -210,6 +210,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
 | [0986-interval-list-intersections](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0986-interval-list-intersections) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
@@ -385,11 +386,13 @@
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0844-backspace-string-compare) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -707,6 +710,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -746,6 +750,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
@@ -795,4 +800,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
