@@ -117,6 +117,7 @@
 | [1652-defuse-the-bomb](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2090-k-radius-subarray-averages) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -638,6 +640,7 @@
 | [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2615-sum-of-distances](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2615-sum-of-distances) |
+| [3364-minimum-positive-sum-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Euler's Totient Function
