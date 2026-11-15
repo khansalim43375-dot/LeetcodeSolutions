@@ -89,6 +89,7 @@
 | [1768-merge-strings-alternately](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -612,6 +613,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Doubly-Linked List
@@ -738,6 +740,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -787,6 +790,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -829,12 +833,14 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
