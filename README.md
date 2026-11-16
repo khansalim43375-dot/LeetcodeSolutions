@@ -613,6 +613,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -741,6 +742,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
@@ -791,6 +793,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2236-root-equals-sum-of-children](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2236-root-equals-sum-of-children) |
@@ -822,6 +825,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2641-cousins-in-binary-tree-ii) |
