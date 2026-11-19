@@ -78,6 +78,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -414,6 +415,7 @@
 | [0225-implement-stack-using-queues](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -601,6 +603,7 @@
 | [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -727,6 +730,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -780,6 +784,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -822,6 +827,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -861,6 +867,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0538-convert-bst-to-greater-tree) |
