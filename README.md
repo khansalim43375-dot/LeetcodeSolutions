@@ -446,6 +446,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -632,6 +633,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -686,6 +688,7 @@
 | [0200-number-of-islands](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -859,6 +862,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Backtracking
