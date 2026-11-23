@@ -264,6 +264,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
@@ -519,6 +520,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Counting Sort
 |  |
 | ------- |
