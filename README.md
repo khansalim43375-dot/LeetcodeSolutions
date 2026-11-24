@@ -202,6 +202,7 @@
 | [0493-reverse-pairs](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0733-flood-fill) |
@@ -456,6 +457,7 @@
 | [0059-spiral-matrix-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
@@ -574,6 +576,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0413-arithmetic-slices) |
+| [0542-01-matrix](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0978-longest-turbulent-subarray](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0978-longest-turbulent-subarray) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Longest Increasing Subsequence
@@ -852,6 +855,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
