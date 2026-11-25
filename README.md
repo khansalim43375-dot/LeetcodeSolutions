@@ -225,6 +225,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1020-number-of-enclaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1046-last-stone-weight) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -463,6 +464,7 @@
 | [0733-flood-fill](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0885-spiral-matrix-iii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0885-spiral-matrix-iii) |
 | [0994-rotting-oranges](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1901-find-a-peak-element-ii) |
@@ -635,6 +637,7 @@
 | [0938-range-sum-of-bst](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -696,6 +699,7 @@
 | [0130-surrounded-regions](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Memoization
@@ -870,6 +874,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/khansalim43375-dot/LeetcodeSolutions/tree/master/1267-count-servers-that-communicate) |
